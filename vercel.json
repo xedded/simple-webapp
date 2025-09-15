@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "simple-webapp",
-  "functions": {},
   "headers": [
     {
       "source": "/(.*\\.css)",
